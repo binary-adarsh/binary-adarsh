@@ -1,6 +1,5 @@
-# Adarsh Nirmal  
-**Full‑Stack Software Engineer**  
-Building Secure APIs & AI‑Powered Apps  
+# Hi there 👋, I'm Adarsh Nirmal  
+**Full‑Stack Software Engineer**
 
 ---
 
@@ -16,9 +15,9 @@ Building Secure APIs & AI‑Powered Apps
 ---
 
 ## 📂 Projects
-- 🔹 **Secure Chat‑App** — Real‑time messaging with Spring Boot + WebSocket  
-- 🔹 **AI Prediction API** — FastAPI + scikit‑learn + Pydantic  
-- 🔹 **StudyBuddy AI** — Generative AI chatbot with LangChain + RAG  
+- 🔹 **Sapling** — AI‑powered hiring platform with room to grow  
+- 🔹 **Auth App** — Role‑Based Access Control & Stateless JWT Authentication (Spring Security + MySQL)  
+- 🔹 **Real‑Time Chat App** — WebSocket + STOMP powered secure messaging with Spring Boot  
 
 ---
 
