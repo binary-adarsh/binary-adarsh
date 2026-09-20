@@ -21,12 +21,7 @@
 
 ---
 
-## 📊 GitHub Stats
-![Adarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=binary-adarsh&show_icons=true&theme=dark)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=binary-adarsh&layout=compact&theme=dark)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=binary-adarsh&theme=dark)
 
----
 
 ## 📫 Contact
 - Email: adarshnirmal80@gmail.com  
