@@ -1,16 +1,18 @@
-# Hi there 👋, I'm Adarsh Nirmal  
-**Full‑Stack Software Engineer**
+<h1 align="center">Hi there 👋, I'm Adarsh Nirmal</h1>
+<h3 align="center">Full‑Stack Software Engineer</h3>
 
 ---
 
 ## 🚀 Skills
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=tensorflow&logoColor=orange)
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=tensorflow&logoColor=orange"/>
+</p>
 
 ---
 
@@ -21,9 +23,9 @@
 
 ---
 
-
-
 ## 📫 Contact
-- Email: adarshnirmal80@gmail.com  
-- LinkedIn: [linkedin.com/in/adarsh-nirmal-19238a327](https://linkedin.com/in/adarsh-nirmal-19238a327)  
-- GitHub: [github.com/binary-adarsh](https://github.com/binary-adarsh)  
+<p align="center">
+  📧 <a href="mailto:adarshnirmal80@gmail.com">adarshnirmal80@gmail.com</a>  
+  🔗 <a href="https://linkedin.com/in/adarsh-nirmal-19238a327">LinkedIn</a>  
+  💻 <a href="https://github.com/binary-adarsh">GitHub</a>  
+</p>
