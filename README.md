@@ -1,9 +1,12 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I'm+Adarsh+Nirmal)](https://git.io/typing-svg)
+<div align="center">
 
-<h3 align="center">Full‑Stack Software Engineer</h3>
-<h3 align="center">💼 Open to Work 💼</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=40&pause=1000&color=FF0000&center=true&vCenter=true&width=700&lines=Hi+there+👋,+I'm+Adarsh+Nirmal)](https://git.io/typing-svg)
 
----
+<h3>Full‑Stack Software Engineer</h3>
+<h3>💼 Open to Work 💼</h3>
+
+</div>
+
 
 ## 🚀 Skills
 <p align="center">
