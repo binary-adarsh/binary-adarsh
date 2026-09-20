@@ -1,5 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Adarsh Nirmal</h1>
-<h3 align="center">Full‑Stack Software Engineer</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F700&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I'm+Adarsh+Nirmal;Full‑Stack+Software+Engineer;💼+Open+to+Work)](https://git.io/typing-svg)
 
 ---
 
